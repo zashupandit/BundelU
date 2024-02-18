@@ -114,8 +114,8 @@ const Register = ({navigation}) => {
           </Text>
         </TouchableOpacity>
 
-        <Text className="text-gray text-lg text-center  my-2 ">
-          --------------or continue with-------------
+        <Text className="text-gray text-md text-center  my-2 ">
+          ------or continue with-----
         </Text>
         <TouchableOpacity
           onPress={signIn}
